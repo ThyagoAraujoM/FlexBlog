@@ -1,9 +1,9 @@
 <h1 align="center">
-     🕹️ <a href="#" alt="FlexBlog"> Dev.Finances$ </a>
+     🕹️ <a href="#" alt="FlexBlog"> FlexBlog </a>
 </h1>
 
 <h3 align="center">
-   Projeto prático de uma aplicação de controle financeiro.
+   Projeto prático de um site responsivo todo feito com flexbox.
 </h3>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <h2 id="---sobre-o-repositório-"> 💻  Sobre o repositório </h2>
 
-Esse repositório é baseado na Maratona Discover com Mayk Brito.
+Esse repositório é feito com o objetivo de praticar boas práticas de responsividade e flexbox.
 
 <h4 align="center">🚧 Aviso 🚧</h4>
 
