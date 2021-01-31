@@ -1,0 +1,269 @@
+/* ======================= RESET/All =======================  */
+
+body,
+h1,
+h2,
+p,
+ul,
+li,
+a {
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+   font-family: "Nunito", Helvetica, Arial, sans-serif;
+   color: #222222;
+}
+
+ul {
+   list-style: none;
+}
+
+a {
+   text-decoration: none;
+}
+
+img {
+   display: block;
+   max-width: 100%;
+}
+
+* {
+   box-sizing: border-box;
+}
+
+hr {
+   color: #122ab2;
+}
+
+/* ======================= SuperInfo =======================  */
+
+.superInfo-bg {
+   background: #122ab2;
+   color: white;
+}
+
+.c-superInfo {
+   max-width: 960px;
+   margin: 0 auto;
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   padding-top: 10px;
+}
+
+.c-superInfo p,
+.c-superInfo a {
+   margin: 0 10px 10px 10px;
+}
+
+.c-superInfo a {
+   color: white;
+}
+
+/* ======================= Header / Menu =======================  */
+
+.menu-bg {
+   background: #2c70ff;
+}
+
+.menu__container {
+   max-width: 960px;
+   margin: 0 auto;
+   padding: 15px 0;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.menu__container a {
+   color: white;
+}
+
+.menu__logo {
+   font-size: 2.25em;
+   font-weight: bold;
+   margin: 0 10px;
+}
+
+.menu__nav ul {
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.menu__nav a {
+   font-size: 1.25em;
+   display: block;
+   padding: 10px;
+}
+
+.menu__nav a:hover {
+   color: #122ab2;
+}
+
+/* ======================= Main/Introdução =======================  */
+
+.introducao {
+   font-size: 3em;
+   line-height: 1;
+   max-width: 960px;
+   margin: 0 auto;
+   padding: 60px 10px;
+}
+
+/* ======================= Main/Sobre =======================  */
+
+.sobre-container {
+   border-top: 1px solid #122ab2;
+   border-bottom: 1px solid #122ab2;
+   max-width: 960px;
+   margin: 0 auto;
+   padding: 60px 0;
+   display: flex;
+   flex-wrap: wrap;
+}
+
+.c-info {
+   flex: 2 1 300px;
+   margin: 0 10px;
+}
+
+.c-info {
+   font-size: 3em;
+}
+
+.c-info {
+   font-size: 3em;
+   margin-bottom: 0.5em;
+}
+
+.c-info {
+   font-size: 1.25em;
+   line-height: 1.4;
+   margin-bottom: 1em;
+   color: #7c7c7c;
+}
+
+.sobre__img {
+   flex: 1 1 160px;
+   margin: 0 10px;
+}
+
+/* ======================= Main/Produtos =======================  */
+
+.produtos {
+   max-width: 960px;
+   margin: 60px auto;
+}
+
+.produtos h1 {
+   font-size: 3em;
+   margin: 0 10px 60px 10px;
+}
+
+.produtos__container {
+   display: flex;
+   flex-wrap: wrap;
+   align-items: flex-end;
+}
+
+.produtos__item {
+   flex: 1 1 175px;
+   margin: 10px;
+}
+
+.produtos__item h2 {
+   font-size: 3em;
+   color: #a4a4a4;
+   background: #f7f7f7;
+   padding: 60px 20px;
+}
+
+.purple {
+   border-top: 8px solid #ae81ff;
+}
+.pink {
+   border-top: 8px solid #f9265e;
+}
+.blue {
+   border-top: 8px solid #66d9eb;
+}
+
+/* ======================= Main/Preços=======================  */
+
+.preco {
+   background: #f7f6f6;
+   padding: 60px;
+   display: flex;
+   flex-wrap: wrap;
+   align-items: flex-end;
+}
+
+.preco__item {
+   flex: 1;
+   border: 4px solid white;
+   padding: 20px;
+   margin: 10px;
+}
+
+.preco__item h2 {
+   font-size: 3em;
+   color: #a4a4a4;
+   text-align: center;
+   margin-top: 20px;
+}
+
+.preco__item span {
+   max-width: 300px;
+   margin: 20px auto;
+   display: block;
+   font-size: 3em;
+   text-align: center;
+   font-weight: bold;
+   padding: 10px 0 5px 0;
+   border-top: 4px solid white;
+   border-bottom: 4px solid white;
+}
+.preco__item sup {
+   font-size: 1.5rem;
+}
+
+.preco__item ul {
+   font-size: 1.25em;
+   max-width: 300px;
+   margin: 20px auto;
+   line-height: 2;
+   font-style: italic;
+   color: #7c7c7c;
+}
+
+.preco__item li {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-bottom: 15px;
+}
+
+.preco__item li::after {
+   content: "";
+   display: block;
+   width: 6px;
+   height: 6px;
+   background: #2c70ff;
+   border-radius: 50%;
+}
+
+.preco__item a {
+   max-width: 300px;
+   display: block;
+   margin: 20px auto;
+   border: 4px solid;
+   color: #222222;
+   text-transform: uppercase;
+   font-weight: bold;
+   font-size: 2.25em;
+   padding: 15px 0;
+   text-align: center;
+}
