@@ -1,5 +1,5 @@
 <h1 align="center">
-     🕹️ <a href="#" alt="Dev.Finances$ (Maratona Discover)"> Dev.Finances$ (Maratona Discover) </a>
+     🕹️ <a href="#" alt="FlexBlog"> Dev.Finances$ </a>
 </h1>
 
 <h3 align="center">
@@ -7,17 +7,17 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pluto-ty/Maratona-Discover?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pluto-ty/FlexBlog?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pluto-ty/Maratona-Discover">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pluto-ty/FlexBlog">
   
   <a href="https://github.com/Pluto-ty/README/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pluto-ty/Maratona-Discover">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pluto-ty/FlexBlog">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Pluto-ty/Maratona-Discover/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Pluto-ty/Maratona-Discover?style=social">
+   <a href="https://github.com/Pluto-ty/FlexBlog/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Pluto-ty/FlexBlog?style=social">
   </a>
   
  
@@ -52,7 +52,7 @@ Códigos comentados para minha própria revisão se precisar, se houver algo que
 
 Este projeto só usa de tem Front-end. Clique no link abaixo para ver a aplicação rodando no seu navegador.
 
-<a href="https://pluto-ty.github.io/Maratona-Discover/" target="_blank" > Dev.Finances$</a> 
+<a href="https://pluto-ty.github.io/FlexBlog/" > FlexBlog </a> 
 
 ### Pré-requisitos
 
@@ -62,7 +62,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 1. Faça clone do projeto:
 
 ```bash
-$ git clone https://github.com/Pluto-ty/Maratona-Discover.git
+$ git clone https://github.com/Pluto-ty/FlexBlog.git
 
 ```
 
