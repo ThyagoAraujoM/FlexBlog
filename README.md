@@ -74,18 +74,25 @@ $ git clone https://github.com/Pluto-ty/FlexBlog.git
 
 <h4 align="center"> Mobile </h4>
   <p align="center";>
-   <img alt="Header/Main" title="Header/Main" src="./assets/mobile.png" width="400px">
+   	<img alt="Header/Main" title="Header/Main" src="./assets/readme/mobile-home.png" width="400px">
+   	<img alt="Header/Main" title="Header/Main" src="./assets/readme/mobile-products.png" width="400px">
   </p>
 
 <h4 align="center"> Web </h4>
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.png" width="900px">
+  <img alt="Home page" title="Home page" src="./assets/readme/home.png" width="900px">
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Products" title="Products" src="./assets/readme/produtcs.png" width="900px">
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Price" title="Price" src="./assets/readme/price.png" width="900px">
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Qualit" title="Qualit" src="./assets/readme/qualit.png" width="900px">
 </p>
 
-<h4 align="center"> Web - Dark Mode </h4>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web-dm.png" width="900px">
-</p>
+
 
 <h2 id="-autor">Autor</h2>
 
