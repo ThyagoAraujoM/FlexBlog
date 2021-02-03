@@ -6,7 +6,8 @@ h2,
 p,
 ul,
 li,
-a {
+a,
+img {
    margin: 0px;
    padding: 0px;
 }
@@ -31,10 +32,6 @@ img {
 
 * {
    box-sizing: border-box;
-}
-
-hr {
-   color: #122ab2;
 }
 
 /* ======================= SuperInfo =======================  */
