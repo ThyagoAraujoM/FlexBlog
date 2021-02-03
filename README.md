@@ -1,5 +1,5 @@
 <h1 align="center">
-     🕹️ <a href="#" alt="FlexBlog"> FlexBlog </a>
+     <a href="https://github.com/Pluto-ty/FlexBlog" alt="FlexBlog"> FlexBlog </a>
 </h1>
 
 <h3 align="center">
