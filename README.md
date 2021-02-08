@@ -50,7 +50,7 @@ Códigos comentados para minha própria revisão se precisar, se houver algo que
 
 <h2 id="--como-executar-o-projeto-"> 🚀 Como executar o projeto </h2>
 
-Este projeto só usa de tem Front-end. Clique no link abaixo para ver a aplicação rodando no seu navegador.
+Este projeto só usa de Front-end. Clique no link abaixo para ver a aplicação rodando no seu navegador.
 
 <a href="https://pluto-ty.github.io/FlexBlog/" > FlexBlog </a> 
 
