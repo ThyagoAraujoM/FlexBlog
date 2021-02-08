@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-   Projeto prático de um site responsivo todo feito com flexbox.
+   Projeto prático de um site responsivo todo feito com Css flexbox.
 </h3>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <h2 id="---sobre-o-repositório-"> 💻  Sobre o repositório </h2>
 
-Esse repositório é feito com o objetivo de praticar boas práticas de responsividade e flexbox.
+Esse repositório é feito com o objetivo de praticar boas práticas de responsividade utilizando Css flexbox.
 
 <h4 align="center">🚧 Aviso 🚧</h4>
 
