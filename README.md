@@ -74,7 +74,7 @@ $ git clone https://github.com/Pluto-ty/FlexBlog.git
 
 <h4 align="center"> Mobile </h4>
   <p align="center";>
-   	<img alt="Header/Main" title="Header/Main" src="./assets/readme/mobile-home.png" width="200px">
+   	<img alt="Header/Main" title="Header/Main" src="./assets/readme/mobile-home.png" width="200px" height="300px">
    	<img alt="Header/Main" title="Header/Main" src="./assets/readme/mobile-products.png" width="200px">
   </p>
 
