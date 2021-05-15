@@ -90,11 +90,9 @@ Todos os tipos de contribuições são muito bem-vindos e apreciados!
 🐛 Encontrar e relatar problemas
 </br>
 📥 Envie PRs para ajudar a resolver problemas ou adicionar recursos
-</br>
 
 ---
 
-</br>
 <h2 id="-autor">Autor</h2>
 
 <a href="https://github.com/Pluto-ty">
