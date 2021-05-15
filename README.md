@@ -66,11 +66,11 @@ $ git clone https://github.com/Pluto-ty/FlexBlog.git
 
 ```
 
-2. Abra com o editor de escolha e modifique,brinque a vontade.
+2. Abra com o editor de escolha.
 
 ---
 
-<h2> Projeto </h2>
+<h2> 🚀 Projeto </h2>
 
 <h4 align="center"> Mobile </h4>
   <p align="center";>
