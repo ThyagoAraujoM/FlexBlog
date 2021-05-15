@@ -110,7 +110,7 @@ $ git clone https://github.com/Pluto-ty/FlexBlog.git
 
 <h2 id="--Contributing"> 🤝 Contribuindo </h2>
 
-Este projeto é para fins de estudo também, então me envie um e-mail me contando o que você está fazendo e por que está fazendo, me ensine o que você sabe
+Este projeto é para fins de estudo, então me envie um e-mail me contando o que você está fazendo e por que está fazendo, me ensine o que você sabe
 
 Todos os tipos de contribuições são muito bem-vindos e apreciados!
 
