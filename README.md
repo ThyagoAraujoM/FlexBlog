@@ -41,12 +41,6 @@
 
 Esse repositório é feito com o objetivo de praticar responsividade utilizando Css flexbox.
 
-<h4 align="center">🚧 Aviso 🚧</h4>
-
-<p>
-O Código está comentado para minha própria revisão, se houver algo que possa ser melhorado, agradeceria bastante se me avisar, estaria ajudando no meu crescimento profissional.
-</p>
-
 ---
 
 <h2 id="--como-executar-o-projeto-"> 🚀 Como executar o projeto </h2>
