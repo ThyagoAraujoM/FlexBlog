@@ -47,7 +47,7 @@ Esse repositório é feito com o objetivo de praticar responsividade utilizando 
 
 Este projeto só usa de Front-end. Clique no link abaixo para ver a aplicação rodando no seu navegador.
 
-<a href="https://pluto-ty.github.io/FlexBlog/" > DEMO </a> 
+<a href="https://pluto-ty.github.io/FlexBlog/" > DEMO </a>
 
 ### Pré-requisitos
 
@@ -69,33 +69,22 @@ $ git clone https://github.com/Pluto-ty/FlexBlog.git
 
 <h4 align="center"> Mobile </h4>
   <p align="center";>
-   	<img alt="Header/Main" title="Header/Main" src="./assets/readme/mobile-home.png" width="200px" height="530px">
-   	<img alt="Header/Main" title="Header/Main" src="./assets/readme/mobile-products.png" width="200px">
+   	<img alt="Header/Main" title="Header/Main" src="./assets/readme/demonstration-mobile.gif" >
   </p>
 
 <h4 align="center"> Web </h4>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Home page" title="Home page" src="./assets/readme/home.png" width="900px">
-</p>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Products" title="Products" src="./assets/readme/products.png" width="900px">
-</p>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Price" title="Price" src="./assets/readme/price.png" width="900px">
-</p>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Qualit" title="Qualit" src="./assets/readme/qualit.png" width="900px">
+<p align="center" style="display: flex; align-content: center; justify-content: center;">
+  <img alt="Home page" title="Home page" src="./assets/readme/demonstration.gif">
 </p>
 
-
-
+</br>
 <h2 id="-autor">Autor</h2>
 
 <a href="https://github.com/Pluto-ty">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51569984" width="100px;" alt=""/>
 </br>
 <p> Thyago Araujo <p>
-</a> 
+</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ThyagoAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thyago-araujo-m/)](https://www.linkedin.com/in/thyago-araujo-m/)
 [![Gmail Badge](https://img.shields.io/badge/-thyagoaraujomotta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thyagoaraujomotta@gmail.com)](mailto:thyagoaraujomotta@gmail.com)
