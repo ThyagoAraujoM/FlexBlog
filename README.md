@@ -100,7 +100,7 @@ $ git clone https://github.com/Pluto-ty/FlexBlog.git
 <a href="https://github.com/Pluto-ty">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51569984" width="100px;" alt=""/>
 </br>
-<p style="color: black; text-decoration: none"> Thyago Araujo <p>
+<p> Thyago Araujo <p>
 </a> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ThyagoAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thyago-araujo-m/)](https://www.linkedin.com/in/thyago-araujo-m/)
