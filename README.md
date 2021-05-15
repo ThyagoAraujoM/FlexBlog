@@ -43,7 +43,7 @@ Esse repositório é feito com o objetivo de praticar responsividade utilizando 
 <h4 align="center">🚧 Aviso 🚧</h4>
 
 <p>
-O Código está comentado para minha própria revisão, se houver algo que pode ser melhorado, não tenha medo de me comunicar isso me ajuda no meu crescimento profissional.
+O Código está comentado para minha própria revisão, se houver algo que possa ser melhorado, agradeceria bastante se me avisar, estaria ajudando no meu crescimento profissional.
 </p>
 
 ---
