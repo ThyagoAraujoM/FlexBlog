@@ -38,12 +38,12 @@
 
 <h2 id="---sobre-o-repositório-"> 💻  Sobre o repositório </h2>
 
-Esse repositório é feito com o objetivo de praticar boas práticas de responsividade utilizando Css flexbox.
+Esse repositório é feito com o objetivo de praticar responsividade utilizando Css flexbox.
 
 <h4 align="center">🚧 Aviso 🚧</h4>
 
 <p>
-Códigos comentados para minha própria revisão se precisar, se houver algo que acha que pode ser melhorado, não tenha medo de me comunicar isso me ajuda no meu crescimento profissional.
+O Código está comentado para minha própria revisão, se houver algo que pode ser melhorado, não tenha medo de me comunicar isso me ajuda no meu crescimento profissional.
 </p>
 
 ---
@@ -52,7 +52,7 @@ Códigos comentados para minha própria revisão se precisar, se houver algo que
 
 Este projeto só usa de Front-end. Clique no link abaixo para ver a aplicação rodando no seu navegador.
 
-<a href="https://pluto-ty.github.io/FlexBlog/" > FlexBlog </a> 
+<a href="https://pluto-ty.github.io/FlexBlog/" > DEMO </a> 
 
 ### Pré-requisitos
 
