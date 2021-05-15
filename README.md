@@ -100,23 +100,26 @@ $ git clone https://github.com/Pluto-ty/FlexBlog.git
 <a href="https://github.com/Pluto-ty">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51569984" width="100px;" alt=""/>
  <br/>
- <sub><b "color: black">Thyago Araujo</b></sub></a> 
- <br>
+ <sub>Thyago Araujo</sub></a> 
+ </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ThyagoAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thyago-araujo-m/)](https://www.linkedin.com/in/thyago-araujo-m/)
 [![Gmail Badge](https://img.shields.io/badge/-thyagoaraujomotta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thyagoaraujomotta@gmail.com)](mailto:thyagoaraujomotta@gmail.com)
 
 ---
 
-<h2 id="--Contributing"> 🤝 Contribuindo <h2>
+<h2 id="--Contributing"> 🤝 Contribuindo </h2>
 
-<p> Este projeto é para fins de estudo também, então me envie um e-mail me contando o que você está fazendo e por que está fazendo, me ensine o que você sabe <p>
+Este projeto é para fins de estudo também, então me envie um e-mail me contando o que você está fazendo e por que está fazendo, me ensine o que você sabe
 
-<p> Todos os tipos de contribuições são muito bem-vindos e apreciados! <p>
+Todos os tipos de contribuições são muito bem-vindos e apreciados!
 
-<p>⭐️ Iniciar o projeto <p>
-<p>🐛 Encontrar e relatar problemas <p>
-<p>📥 Envie PRs para ajudar a resolver problemas ou adicionar recursos<p>
+⭐️ Iniciar o projeto
+</br>
+🐛 Encontrar e relatar problemas
+</br>
+📥 Envie PRs para ajudar a resolver problemas ou adicionar recursos
+</br>
 
 ---
 
