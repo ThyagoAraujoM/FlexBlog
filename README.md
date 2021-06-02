@@ -1,5 +1,5 @@
 <h1 align="center">
-     <a href="https://github.com/Pluto-ty/FlexBlog" alt="FlexBlog"> FlexBlog </a>
+     <a href="https://github.com/thyagoaraujom/FlexBlog" alt="FlexBlog"> FlexBlog </a>
 </h1>
 
 <h3 align="center">
@@ -7,17 +7,17 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Pluto-ty/FlexBlog?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/thyagoaraujom/FlexBlog?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Pluto-ty/FlexBlog">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/thyagoaraujom/FlexBlog">
   
-  <a href="https://github.com/Pluto-ty/README/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Pluto-ty/FlexBlog">
+  <a href="https://github.com/thyagoaraujom/README/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thyagoaraujom/FlexBlog">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/Pluto-ty/FlexBlog/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Pluto-ty/FlexBlog?style=social">
+   <a href="https://github.com/thyagoaraujom/FlexBlog/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/thyagoaraujom/FlexBlog?style=social">
   </a>
   
  
@@ -47,7 +47,7 @@ Esse repositório é feito com o objetivo de praticar responsividade utilizando 
 
 Este projeto só usa Front-end ( Html, Css ). Clique no link abaixo para ver a aplicação rodando no seu navegador.
 
-<a href="https://pluto-ty.github.io/FlexBlog/" > DEMO </a>
+<a href="https://thyagoaraujom.github.io/FlexBlog/" > DEMO </a>
 
 ### Pré-requisitos
 
@@ -57,7 +57,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 1. Faça clone do projeto:
 
 ```bash
-$ git clone https://github.com/Pluto-ty/FlexBlog.git
+$ git clone https://github.com/thyagoaraujom/FlexBlog.git
 
 ```
 
@@ -95,7 +95,7 @@ Todos os tipos de contribuições são muito bem-vindos e apreciados!
 
 <h2 id="-autor">Autor</h2>
 
-<a href="https://github.com/Pluto-ty">
+<a href="https://github.com/thyagoaraujom">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/51569984" width="100px;" alt=""/>
 </br>
 <p> Thyago Araujo <p>
